@@ -45,8 +45,7 @@ jobs:
           limit_loop_cycle_time \
           customtypeone_looppatches \
           2002 \
-          algorithm_experiments \
-          ADULT_CHILD_INSULIN_MODEL_SELECTION_ENABLED
+          algorithm_experiments 
 
           # the final customization listed above CANNOT have a continuation character "\"
           # more customizations can be pasted after this line
