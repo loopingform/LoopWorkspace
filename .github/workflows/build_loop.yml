@@ -45,7 +45,7 @@ jobs:
           limit_loop_cycle_time \
           customtypeone_looppatches \
           2002 \
-          algorithm_experiment
+          algorithm_experiments
           
 
       # Patch Fastlane Match to not print tables
