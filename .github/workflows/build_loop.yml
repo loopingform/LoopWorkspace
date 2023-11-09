@@ -45,7 +45,9 @@ jobs:
           limit_loop_cycle_time \
           customtypeone_looppatches \
           2002 \
-          algorithm_experiments
+          algorithm_experiments \
+          testflight_expiration_warning
+        
           
 
       # Patch Fastlane Match to not print tables
