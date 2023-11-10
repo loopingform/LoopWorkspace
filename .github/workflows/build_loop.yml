@@ -44,9 +44,9 @@ jobs:
           future_carbs_4h \
           high_carb_limit \
           override_sens \
+          customtypeone_looppatches \
           limit_loop_cycle_time \
           now_line \
-          customtypeone_looppatches \
           2002 \
           algorithm_experiments \
           testflight_expiration_warning
