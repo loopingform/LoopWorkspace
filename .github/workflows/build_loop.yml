@@ -44,7 +44,7 @@ jobs:
           override_sens \
           limit_loop_cycle_time \
           now_line \
-          algorithm_experiments \
+          2002 \
           testflight_expiration_warning
 
           # the final customization listed above CANNOT have a continuation character "\"
