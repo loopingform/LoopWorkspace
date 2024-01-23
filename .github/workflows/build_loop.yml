@@ -44,6 +44,7 @@ jobs:
           override_sens \
           limit_loop_cycle_time \
           now_line \
+          customtypeone_looppatches \
           testflight_expiration_warning
 
           # the final customization listed above CANNOT have a continuation character "\"
