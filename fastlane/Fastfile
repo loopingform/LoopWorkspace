@@ -128,7 +128,7 @@ platform :ios do
       targets: ["Loop Widget Extension"]
     )
 
-    gym(
+    (
       export_method: "app-store",
       scheme: "LoopWorkspace",
       output_name: "Loop.ipa",
